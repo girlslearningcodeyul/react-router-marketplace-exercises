@@ -8,6 +8,10 @@ let sellers = [{
 {
   name: "Hank Green",
   rating: "2 stars"
+},
+{
+  name: "Aly Phillips",
+  rating: "3 stars"
 }
 ]
 
